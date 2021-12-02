@@ -26,11 +26,14 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 **Previously worked with:**
 
 <a href="#" title="Golang"><img height="30" src="icons/golang.png" /></a>
+<a href="#" title="Python"><img height="30" src="icons/python.png" /></a>
+<a href="#" title="Flask api"><img height="30" src="icons/flask.png"></a>
+<a href="#" title="Fastapi"><img height="30" src="icons/fastapi.png"></a>
 <a href="#" title="PHP"><img height="30" src="icons/php.png" /></a>
 <a href="#" title="Wordpress"><img height="30" src="icons/wordpress.png" /></a>
 <a href="#" title="Composer"><img height="30" src="icons/composer.png" /></a>
-<a href="#" title="Python"><img height="30" src="icons/python.png" /></a>
-<a href="#" title="Mysql"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
+<a href="#" title="Mysql"><img height="30" src="icons/mysql.png"></a>
+<a href="#" title="Mariadb"><img height="30" src="icons/mariadb.png"></a>
 
 **Learning:**
 
@@ -38,6 +41,9 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 <a href="#" title="Hyperledger Fabric"><img height="30" src="icons/hyperledger-fabric.png" /></a>
 <a href="#" title="Kubernetes"><img height="30" src="icons/kubernetes.png"/></a>
 <a href="#" title="Flutter"><img height="30" src="icons/flutter.png"/></a>
+
+
+📈 my github stats
 
 
 <!--https://profile-counter.glitch.me/tuan072090/count.svg-->
