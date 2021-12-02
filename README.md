@@ -19,6 +19,8 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 <a href="#" title="Reactjs & React native"><img height="30" src="icons/react.png"/></a>
 <a href="#" title="Nodejs"><img height="30" src="icons/nodejs.png"></a>
 <a href="#" title="Docker"><img height="30" src="icons/docker.png" /></a>
+<a href="#" title="Postgres"><img height="30" src="icons/postgres.png" /></a>
+<a href="#" title="Mongodb"><img height="30" src="icons/mongodb.png" /></a>
 <a href="#" title="Firebase"><img height="30" src="icons/firebase.png"></a>
 <a href="#" title="Google Cloud Platform"><img height="30" src="icons/google-cloud.png"></a>
 <a href="#" title="Git"><img height="30" src="icons/git.png"></a>
