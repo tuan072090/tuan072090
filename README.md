@@ -10,7 +10,7 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="576" height="432" />
+<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="287" height="216" />
 
 **Currently working with:**  
 
