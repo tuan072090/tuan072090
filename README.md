@@ -23,7 +23,6 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 <a href="#" title="Mongodb"><img height="30" src="icons/mongodb.png" /></a>
 <a href="#" title="Firebase"><img height="30" src="icons/firebase.png"></a>
 <a href="#" title="Google Cloud Platform"><img height="30" src="icons/google-cloud.png"></a>
-<a href="#" title="Git"><img height="30" src="icons/git.png"></a>
 
 **Previously worked with:**
 
