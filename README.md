@@ -6,10 +6,9 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 
 - 🌱 I’m currently learning blockchain and Devops
 - 👯 I’m looking to collaborate on a blockchain team or a blockchain company
-- 💬 Ask me about ...
 - 📫 How to reach me: 
--   <a href="https://telegram.me/tuan072090">telegram.me/tuan072090</a>
--   <a href="mailto:tuannmuit@gmail.com">tuannmuit@gmail.com</a>
+  -   <a href="https://telegram.me/tuan072090">telegram.me/tuan072090</a>
+  -   <a href="mailto:tuannmuit@gmail.com">tuannmuit@gmail.com</a>
 
 <img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="287" height="216" />
 
