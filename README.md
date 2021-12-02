@@ -10,7 +10,7 @@ When technology’s moving too fast, I believe “speed” and “changes” are
   -   <a href="https://telegram.me/tuan072090">telegram.me/tuan072090</a>
   -   <a href="mailto:tuannmuit@gmail.com">tuannmuit@gmail.com</a>
 
-<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="320" height="240" />
+<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="400" height="300" />
 
 **Currently working with:**  
 
