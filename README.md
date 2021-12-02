@@ -10,7 +10,7 @@ When technology’s moving too fast, I believe “speed” and “changes” are
   -   <a href="https://telegram.me/tuan072090">telegram.me/tuan072090</a>
   -   <a href="mailto:tuannmuit@gmail.com">tuannmuit@gmail.com</a>
 
-<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="287" height="216" />
+<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="320" height="240" />
 
 **Currently working with:**  
 
@@ -44,7 +44,7 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 <a href="#" title="Kubernetes"><img height="30" src="icons/kubernetes.png"/></a>
 <a href="#" title="Flutter"><img height="30" src="icons/flutter.png"/></a>
 
-
+<br/>
 📈 my github stats
 
 
