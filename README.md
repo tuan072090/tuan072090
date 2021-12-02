@@ -25,18 +25,19 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 <a href="#" title="Git"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
 
 **Previously worked with:**
-<a href="#" title="Golang"><img src="icons/golang.png" /></a>
-<a href="#" title="PHP"><img src="icons/php.png" /></a>
-<a href="#" title="Wordpress"><img src="icons/wordpress.png" /></a>
-<a href="#" title="Composer"><img src="icons/composer.png" /></a>
-<a href="#" title="Python"><img src="icons/python.png" /></a>
+
+<a href="#" title="Golang"><img height="30" src="icons/golang.png" /></a>
+<a href="#" title="PHP"><img height="30" src="icons/php.png" /></a>
+<a href="#" title="Wordpress"><img height="30" src="icons/wordpress.png" /></a>
+<a href="#" title="Composer"><img height="30" src="icons/composer.png" /></a>
+<a href="#" title="Python"><img height="30" src="icons/python.png" /></a>
 <a href="#" title="Mysql"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
 
 **Learning:**
 
-<a href="#" title="Solidity"><img src="icons/solidity.png" /></a>
-<a href="#" title="Hyperledger Fabric"><img src="icons/hyperledger-fabric.png" /></a>
-<a href="#" title="Kubernetes"><img src="icons/kubernetes.png"/></a>
+<a href="#" title="Solidity"><img height="30" src="icons/solidity.png" /></a>
+<a href="#" title="Hyperledger Fabric"><img height="30" src="icons/hyperledger-fabric.png" /></a>
+<a href="#" title="Kubernetes"><img height="30" src="icons/kubernetes.png"/></a>
 
 
 <!--https://profile-counter.glitch.me/tuan072090/count.svg-->
