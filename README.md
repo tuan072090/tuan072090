@@ -18,11 +18,11 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 <a href="#" title="Javascript"><img height="30" src="icons/javascript.png"/></a>
 <a href="#" title="Typescript"><img height="30" src="icons/typescript.png"/></a>
 <a href="#" title="Reactjs & React native"><img height="30" src="icons/react.png"/></a>
-<a href="#" title="Nodejs"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a>
+<a href="#" title="Nodejs"><img height="30" src="icons/nodejs.png"></a>
 <a href="#" title="Docker"><img height="30" src="icons/docker.png" /></a>
-<a href="#" title="Firebase"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a>
+<a href="#" title="Firebase"><img height="30" src="icons/firebase.png"></a>
 <a href="#" title="Google Cloud Platform"><img height="30" src="icons/google-cloud.png"></a>
-<a href="#" title="Git"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>
+<a href="#" title="Git"><img height="30" src="icons/git.png"></a>
 
 **Previously worked with:**
 
@@ -38,6 +38,7 @@ When technology’s moving too fast, I believe “speed” and “changes” are
 <a href="#" title="Solidity"><img height="30" src="icons/solidity.png" /></a>
 <a href="#" title="Hyperledger Fabric"><img height="30" src="icons/hyperledger-fabric.png" /></a>
 <a href="#" title="Kubernetes"><img height="30" src="icons/kubernetes.png"/></a>
+<a href="#" title="Flutter"><img height="30" src="icons/flutter.png"/></a>
 
 
 <!--https://profile-counter.glitch.me/tuan072090/count.svg-->
