@@ -8,7 +8,7 @@ I am Tuan Nguyen, a full-stack software developer, with 8+ years in startup and 
   -   <a href="https://telegram.me/tuan072090">telegram.me/tuan072090</a>
   -   <a href="mailto:tuannmuit@gmail.com">tuannmuit@gmail.com</a>
 
-<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="287" height="216" />
+<img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="400" height="300" />
 
 **Currently working with:**  
 
@@ -17,18 +17,22 @@ I am Tuan Nguyen, a full-stack software developer, with 8+ years in startup and 
 <a href="#" title="Reactjs & React native"><img height="30" src="icons/react.png"/></a>
 <a href="#" title="Nodejs"><img height="30" src="icons/nodejs.png"></a>
 <a href="#" title="Docker"><img height="30" src="icons/docker.png" /></a>
+<a href="#" title="Postgres"><img height="30" src="icons/postgres.png" /></a>
+<a href="#" title="Mongodb"><img height="30" src="icons/mongodb.png" /></a>
 <a href="#" title="Firebase"><img height="30" src="icons/firebase.png"></a>
 <a href="#" title="Google Cloud Platform"><img height="30" src="icons/google-cloud.png"></a>
-<a href="#" title="Git"><img height="30" src="icons/git.png"></a>
 
 **Previously worked with:**
 
 <a href="#" title="Golang"><img height="30" src="icons/golang.png" /></a>
+<a href="#" title="Python"><img height="30" src="icons/python.png" /></a>
+<a href="#" title="Flask api"><img height="30" src="icons/flask.png"></a>
+<a href="#" title="Fastapi"><img height="30" src="icons/fastapi.png"></a>
 <a href="#" title="PHP"><img height="30" src="icons/php.png" /></a>
 <a href="#" title="Wordpress"><img height="30" src="icons/wordpress.png" /></a>
 <a href="#" title="Composer"><img height="30" src="icons/composer.png" /></a>
-<a href="#" title="Python"><img height="30" src="icons/python.png" /></a>
-<a href="#" title="Mysql"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a>
+<a href="#" title="Mysql"><img height="30" src="icons/mysql.png"></a>
+<a href="#" title="Mariadb"><img height="30" src="icons/mariadb.png"></a>
 
 **Learning:**
 
@@ -36,6 +40,10 @@ I am Tuan Nguyen, a full-stack software developer, with 8+ years in startup and 
 <a href="#" title="Hyperledger Fabric"><img height="30" src="icons/hyperledger-fabric.png" /></a>
 <a href="#" title="Kubernetes"><img height="30" src="icons/kubernetes.png"/></a>
 <a href="#" title="Flutter"><img height="30" src="icons/flutter.png"/></a>
+
+<br/>
+📈 my github stats
+
 
 
 <!--https://profile-counter.glitch.me/tuan072090/count.svg-->
