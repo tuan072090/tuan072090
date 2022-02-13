@@ -1,12 +1,11 @@
 ### Hi there 👋
-I am Tuan Nguyen, a full-stack engineer, with 8+ years in product and startup companies with vast IT experience. Skills include creative problem-solving, self motivated and analytical thinking.
+I am Tuan Nguyen, Creative and dynamic developer with over 8 years of experience developing robust code for startups and product companies. Skills include creative problem solving, self-motivation, and analytical thinking. Willing to support the development team with top-notch programming skills and frameworks. Always open to adopting new technologies to improve product quality and work performance.
 
 
-- 🌱 I’m currently learning blockchain and Devops
-- 👯 I’m looking to collaborate on a blockchain team or a blockchain company
-- 📫 How to reach me: 
+
+  📫 How to reach me: 
   -   <a href="https://telegram.me/tuan072090">telegram.me/tuan072090</a>
-  -   <a href="mailto:tuannmuit@gmail.com">tuannmuit@gmail.com</a>
+  -   <a href="mailto:tuannguyen7290@gmail.com">tuannguyen7290@gmail.com</a>
 
 <img align="right" alt="GIF" src="https://personal-imgs.s3.ap-southeast-1.amazonaws.com/coder.gif" width="400" height="300" />
 
