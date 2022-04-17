@@ -40,6 +40,7 @@ I am Tuan Nguyen, Creative and dynamic developer with over 8 years of experience
 **Learning:**
 
 <a href="#" title="Solidity"><img height="30" src="icons/solidity.png" /></a>
+<a href="#" title="Rust"><img height="30" src="icons/rust.svg" /></a>
 <a href="#" title="Hyperledger Fabric"><img height="30" src="icons/hyperledger-fabric.png" /></a>
 <a href="#" title="Kubernetes"><img height="30" src="icons/kubernetes.png"/></a>
 <a href="#" title="Flutter"><img height="30" src="icons/flutter.png"/></a>
