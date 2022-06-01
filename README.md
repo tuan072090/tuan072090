@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Tuan Nguyen, Creative and dynamic developer with over 8 years of experience developing robust code for startups and product companies. Skills include creative problem solving, self-motivation, and analytical thinking. Willing to support the development team with top-notch programming skills and frameworks. Always open to adopting new technologies to improve product quality and work performance.
+I am Tuan Nguyen, Creative and dynamic software engineer with over 8 years of experience developing robust code for startups and product companies. Skills include creative problem solving, self-motivation, and analytical thinking. Willing to support the development team with top-notch programming skills and frameworks. Always open to adopting new technologies to improve product quality and work performance.
 
 
 
@@ -21,6 +21,7 @@ I am Tuan Nguyen, Creative and dynamic developer with over 8 years of experience
 <a href="#" title="Mongodb"><img height="30" src="icons/mongodb.png" /></a>
 <a href="https://firebase.google.com/" title="Firebase" target="_blank"><img height="30" src="icons/firebase.png"></a>
 <a href="https://strapi.io" target="_blank" title="Strapi"><img height="24" src="icons/strapi.png"></a>
+<a href="https://www.nocodb.com/" target="_blank" title="Nocodb"><img height="24" src="icons/nocodb.png"></a>
 <a href="https://tooljet.com/" target="_blank" title="Tooljet"><img height="24" src="icons/tooljet.svg"></a>
 <a href="https://vitejs.dev/" target="_blank" title="Vitejs"><img height="30" src="icons/vite.svg"></a>
 <a href="#" title="Webpack"><img height="30" src="icons/webpack.png"></a>
