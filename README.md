@@ -14,6 +14,7 @@ I am Tuan Nguyen, Creative and dynamic software engineer with over 8 years of ex
 <a href="#" title="Javascript"><img height="30" src="icons/javascript.png"/></a>
 <a href="#" title="Typescript"><img height="30" src="icons/typescript.png"/></a>
 <a href="#" title="Reactjs & React native"><img height="30" src="icons/react.png"/></a>
+<a href="" title="Angular"><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg"/></a>
 <a href="#" title="Next.js"><img height="30" src="icons/nextjs.png"></a>
 <a href="https://nestjs.com/" title="Nestjs"><img height="30" src="icons/nestjs.svg"></a>
 <a href="#" title="Docker"><img height="30" src="icons/docker.png" /></a>
@@ -22,7 +23,6 @@ I am Tuan Nguyen, Creative and dynamic software engineer with over 8 years of ex
 <a href="https://firebase.google.com/" title="Firebase" target="_blank"><img height="30" src="icons/firebase.png"></a>
 <a href="https://strapi.io" target="_blank" title="Strapi"><img height="24" src="icons/strapi.png"></a>
 <a href="https://www.nocodb.com/" target="_blank" title="Nocodb"><img height="24" src="icons/nocodb.png"></a>
-<a href="https://tooljet.com/" target="_blank" title="Tooljet"><img height="24" src="icons/tooljet.svg"></a>
 <a href="https://vitejs.dev/" target="_blank" title="Vitejs"><img height="30" src="icons/vite.svg"></a>
 <a href="#" title="Webpack"><img height="30" src="icons/webpack.png"></a>
 
