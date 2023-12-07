@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Tuan Nguyen, Creative and dynamic developer with over 9 years of experience developing robust code for startups and product companies. Skills include creative problem solving, self-motivation, and analytical thinking. Willing to support the development team with top-notch programming skills and frameworks. Always open to adopting new technologies to improve product quality and work performance.
+I am Tuan Nguyen, Creative and dynamic developer with over 11 years of experience developing robust code for startups and product companies. Skills include creative problem-solving, self-motivation, and analytical thinking. Willing to support the development team with top-notch programming skills and frameworks. Always open to adopting new technologies to improve product quality and work performance.
 
 
 
@@ -25,6 +25,7 @@ I am Tuan Nguyen, Creative and dynamic developer with over 9 years of experience
 <a href="https://jestjs.io/" title="Jest"><img height="30" src="icons/jest.png"></a>
 
 **Previously worked with:**
+
 <a href="" title="Angular"><img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg"/></a>
 <a href="#" title="Golang"><img height="30" src="icons/golang.png" /></a>
 <a href="#" title="Python"><img height="30" src="icons/python.png" /></a>
