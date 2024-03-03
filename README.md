@@ -1,10 +1,10 @@
 ### Hi there 👋
-I am Tuan Nguyen, Creative and dynamic developer with over 11 years of experience developing robust code for startups and product companies. Skills include creative problem-solving, self-motivation, and analytical thinking. Willing to support the development team with top-notch programming skills and frameworks. Always open to adopting new technologies to improve product quality and work performance.
+I am Tuan Nguyen, with over 9 years of experience in software engineering, I specialize in developing web apps, APIs, and deployment solutions for various business domains.
 
-
+When technology’s moving too fast, I believe “speed” and “changes” are keys to success. That’s why I always try to learn faster and enjoy collaborating with others to gain different perspectives and refine strategies.
 
   📫 How to reach me: 
-  -   <a href="https://telegram.me/tuan072090">telegram.me/tuan072090</a>
+  -   <a href="https://www.linkedin.com/in/nguyen-tuan-henry/">My Linkedin</a>
   -   <a href="mailto:tuannguyen7290@gmail.com">tuannguyen7290@gmail.com</a>
 
 
