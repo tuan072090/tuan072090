@@ -1,7 +1,6 @@
 ### Hi there 👋
-I am Tuan Nguyen, with over 9 years of experience in software engineering, I specialize in developing web apps, APIs, and deployment solutions for various business domains.
-
-When technology’s moving too fast, I believe “speed” and “changes” are keys to success. That’s why I always try to learn faster and enjoy collaborating with others to gain different perspectives and refine strategies.
+I am Tuan, with over 10 years of experience in IT, I drive business success through innovative tech solutions. I specialize in architecting and developing web apps, APIs, and deployment solutions for diverse business domains. I am leveraging my cloud expertise to ensure optimal performance, scalability, and security.
+By embracing a collaborative and agile approach, I foster strong partnerships with business leaders to understand their unique challenges and develop tailored solutions that exceed expectations. My focus on continuous learning and adapting to emerging trends enables me to deliver cutting-edge solutions that address complex problems and unlock new opportunities for growth and success.
 
   📫 How to reach me: 
   -   <a href="https://www.linkedin.com/in/nguyen-tuan-henry/">My Linkedin</a>
